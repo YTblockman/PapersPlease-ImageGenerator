@@ -5,7 +5,7 @@ what else i can type...
 
 ```diff
 fonts: https://papersplease.fandom.com/wiki/Fonts
-game: papersplea.se
+game: papersplea.se <- Textures, document-styles, passports...
 ```
 
 <h1 align="center">Run</h1>
