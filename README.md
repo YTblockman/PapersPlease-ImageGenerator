@@ -10,5 +10,6 @@ game: papersplea.se, << GAME TEXTURES, &stuff
 
 ```
 Open jar file... download in versions (console version unsupported)
+/java -jar <jarfile>/
 ```
 download runnable .jar file in [versions](https://github.com/YTblockman/Papers-Please-Document-Generator/releases/)
