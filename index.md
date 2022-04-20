@@ -1,6 +1,6 @@
 # Image maniplulator
 
-> I don't recommend using this, I'm working on better solution, using python PIL and some next.js frontend ui.</h3>
+> I don't recommend using this, I'm working on better solution, using python PIL and some next.js frontend ui.
 > When it's done I'll remove this repository
 
 # Status
