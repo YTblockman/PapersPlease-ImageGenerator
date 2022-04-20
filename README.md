@@ -1,15 +1,12 @@
-# Papers-Please-Document-Generator
+# Image maniplulator
 
-```diff
-fonts: https://papersplease.fandom.com/wiki/Fonts
-game: papersplea.se, << GAME TEXTURES, &stuff
+> <h3> :warning: I don't recommend using this, I'm working on better solution, using python PIL and some next.js frontend ui.</h3>
 
-```
+# Execute
+* Download compiled [Jar File](https://github.com/YTblockman/Papers-Please-Document-Generator/releases/)
+* Execute it with `java -jar jarfile.jar`
 
-<h1 align="center">Run</h1>
-
-```
-Open jar file... download in versions (console version unsupported)
-/java -jar <jarfile>/
-```
-download runnable .jar file in [versions](https://github.com/YTblockman/Papers-Please-Document-Generator/releases/)
+# Used resources
+* Fonts: [Papers please fandom](https://papersplease.fandom.com/wiki/Fonts)
+* Textures: [Papers please fandom](https://papersplease.fandom.com/wiki/Fonts)
+The game: [Papers Please](https://papersplea.se)
